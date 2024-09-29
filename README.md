@@ -16,6 +16,12 @@ GitHub
 ## Installation Instruction
 git clone git@github.com:Leo-Muraya/wk1-codeChallenge.git
 
+## Technologies used
+JavaScript
+
+## Support and contact details
+github.com/Leo-muraya
+
 
 
 
